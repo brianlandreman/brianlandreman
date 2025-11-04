@@ -1,4 +1,4 @@
-## Hello! I'm Brian landreman, a third-year UCLA student from rural New Jersey
+## Hello! I'm Brian landreman, a third-year Electrical Engineering Student at Rutgers University
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/brian-landreman) [![Email me!](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto::bnlandreman@gmail.com)
 ---
 
