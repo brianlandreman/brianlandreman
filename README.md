@@ -7,7 +7,7 @@
 * 🎓 **Major**: Electrical & Computer Engineering
 * 🌱 **Hometown**: Califon, New Jersey 
 * 😄 **Hobbies**: Listening to music, Biking, 
-* 🤔 **Coursework**: Electronic Devices, Linear Systems and Signals, Control System Design, Computer Architecture, Data Structures
+* 🤔 **Coursework**: Electronic Devices, Linear Systems and Signals, Control System Design, Computer Architecture, Data Structures, Differential Equations
 
 ---
 
@@ -21,7 +21,7 @@
 
 ## 🔭 Relevant Experience
 
-#### **[Electrical Engineer](https://www.tridentllc.com/) at Rutgers Rocket Propulsion Lab**
+#### **[Electrical Engineer](https://aiaa.rutgers.edu/RPL/) at Rutgers Rocket Propulsion Lab**
 * Designed and tested the power distribution board for the rocket's avionics system. **(Replace with your first achievement)**
 * Utilized Altium to create schematics and PCB layouts according to aerospace specifications. **(Replace with your second achievement)**
 
