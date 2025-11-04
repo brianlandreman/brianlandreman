@@ -1,4 +1,4 @@
-## Hello! I'm Brian Landreman, a third-year Electrical Engineering Student at Rutgers University
+## Hello! I'm Brian Landreman, a third-year Student at Rutgers School of Engineering
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/brian-landreman) [![Email me!](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:bnlandreman@gmail.com)
 ---
 
