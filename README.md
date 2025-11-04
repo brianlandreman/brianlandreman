@@ -15,7 +15,7 @@
 
 * **Programming Languages**: Python, C, C++, RISC-V
 * **CAD Packages**: Altium, SolidWorks
-* **Tools**: Microsoft Office Suite (Excel, PowerPoint, etc), Microsoft SQL Server, MATLAB, SIMULINK, VSCode
+* **Tools**:  MATLAB, SIMULINK, VSCode, Microsoft Office Suite (Excel, PowerPoint, etc), Microsoft SQL Server
 
 ---
 
