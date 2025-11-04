@@ -22,7 +22,7 @@
 ## 🔭 Relevant Experience
 
 #### **[Electrical Engineer](https://aiaa.rutgers.edu/RPL/) at Rutgers Rocket Propulsion Lab**
-* Designed and tested the power distribution board for the rocket's avionics system. **(Replace with your first achievement)**
+* Developed a S2-LP RF Transceiver breakout board for the main STM32 flight computer that served as the primary hardware test bench for the team's new RF system, enabling pre-flight debugging and direct verification of TX power and RX sensitivity before integration.
 * Utilized Altium to create schematics and PCB layouts according to aerospace specifications. **(Replace with your second achievement)**
 
 #### **[Data Engineer Intern](https://www.tridentllc.com/) at Trident Maritime Systems**
