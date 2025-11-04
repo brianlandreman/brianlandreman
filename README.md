@@ -7,7 +7,7 @@
 * 🎓 **Major**: Electrical & Computer Engineering
 * 🌱 **Hometown**: Califon, New Jersey 
 * 😄 **Hobbies**: Listening to music, Biking, 
-* 🤔 **Coursework**: Electronic Devices, Linear Systems and Signals, Control System Design, Computer Architecture, Data Structures, Differential Equations
+* 🤔 **Coursework**: Electronic Devices, Linear Systems and Signals, Control System Design, Computer Architecture, Data Structures, Differential Equations, Probability, Principles of Electrical Engineering I&II, Engineering Mechanics Statics
 
 ---
 
