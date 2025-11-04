@@ -32,8 +32,9 @@
 * Automated the ingestion and parsing of incoming test data into the Python application, eliminating manual entry and reducing error-prone workflows
 
 #### **[Information Systems Assistant](https://https://www.accompacting.com/) at AC Compacting Equipment LLC**
-* Developed a S2-LP RF Transceiver breakout board for the main STM32 flight computer that served as the primary hardware test bench for the team's new RF system, enabling pre-flight debugging and direct verification of TX power and RX sensitivity before integration.
-* Utilized Altium to create schematics and PCB layouts according to aerospace specifications. **(Replace with your second achievement)**
+* Architected and led the complete overhaul of the CRM database, implementing robust data modeling and optimization strategies that significantly enhanced client data integrity and provided real-time sales pipeline visibility across multiple departments
+* Led the modernization of the corporate website, integrating advanced SEO and digital marketing frameworks that measurably increased monthly lead generation by 15%
+
 
 
 ---
