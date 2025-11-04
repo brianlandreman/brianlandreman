@@ -23,10 +23,17 @@
 
 #### **[Electrical Engineer](https://aiaa.rutgers.edu/RPL/) at Rutgers Rocket Propulsion Lab**
 * Developed a S2-LP RF Transceiver breakout board for the main STM32 flight computer that served as the primary hardware test bench for the team's new RF system, enabling pre-flight debugging and direct verification of TX power and RX sensitivity before integration.
-* Utilized Altium to create schematics and PCB layouts according to aerospace specifications. **(Replace with your second achievement)**
+* Led circuit design and layout in Altium, integrating the S2-LP IC, a 24MHz crystal, and the matching network, while enforcing RF design standards: calculating 50Ω trace impedance, ensuring a solid ground plane with via stitching, and implementing robust power supply filtering and decoupling for stability.
+* Led the design and fabrication of a custom booster avionics bay for flight computers, leveraging SolidWorks for structural integrity and Altium for precise PCB layout, optimizing component fitment.
 
 #### **[Data Engineer Intern](https://www.tridentllc.com/) at Trident Maritime Systems**
-* Engineered an intuitive and interactive Python desktop application, utilizing advanced libraries (e.g., pandas, matplotlib, scipy), to automate the analysis of critical material properties, which enhanced data accessibility, analytical depth, and expedited engineer decision-making for alloy selection and compliance verification.
-* Automated daily reporting dashboards, which improved data integrity and reduced manual effort by over 50%. **(Replace with your second achievement)**
+* Engineered an intuitive and interactive Python desktop application, utilizing standard python libraries (e.g., pandas, matplotlib, scipy), to automate the analysis of critical material properties, which enhanced data accessibility, analytical depth, and expedited engineer decision-making for alloy selection in maritime applications
+* Integrated SQL based data pipelines by collaborating with IT to connect laboratory testing machines to a centralized database, supporting automated, real-time test data synchronization
+* Automated the ingestion and parsing of incoming test data into the Python application, eliminating manual entry and reducing error-prone workflows
+
+#### **[Information Systems Assistant](https://https://www.accompacting.com/) at AC Compacting Equipment LLC**
+* Developed a S2-LP RF Transceiver breakout board for the main STM32 flight computer that served as the primary hardware test bench for the team's new RF system, enabling pre-flight debugging and direct verification of TX power and RX sensitivity before integration.
+* Utilized Altium to create schematics and PCB layouts according to aerospace specifications. **(Replace with your second achievement)**
+
 
 ---
