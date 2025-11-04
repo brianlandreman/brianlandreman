@@ -1,10 +1,14 @@
 ## Hello, I 'm Brian Landreman👋
-
+🎓 Major: Electrical & Computer Engineering
+🌱 Hometown: Califon, New Jersey (Population: 900)
+🏫 Where am I now?: 
+😄 Hobbies: Listening to music, hiking,
+🤔 Coursework:
 <!--
 **brianlandreman/brianlandreman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
