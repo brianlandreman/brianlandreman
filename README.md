@@ -26,7 +26,7 @@
 * Utilized Altium to create schematics and PCB layouts according to aerospace specifications. **(Replace with your second achievement)**
 
 #### **[Data Engineer Intern](https://www.tridentllc.com/) at Trident Maritime Systems**
-* Built ETL pipelines using SQL and Python to migrate legacy system data into a centralized database. **(Replace with your first achievement)**
+* Engineered an intuitive and interactive Python desktop application, utilizing advanced libraries (e.g., pandas, matplotlib, scipy), to automate the analysis of critical material properties, which enhanced data accessibility, analytical depth, and expedited engineer decision-making for alloy selection and compliance verification.
 * Automated daily reporting dashboards, which improved data integrity and reduced manual effort by over 50%. **(Replace with your second achievement)**
 
 ---
